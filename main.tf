@@ -1,4 +1,4 @@
-provider "google"{
+/* provider "google"{
   project = "curious-mender-390211"
   region  = "us-central1"
   zone    = "us-central1-c"
@@ -26,4 +26,4 @@ resource "google_compute_instance" "default" {
       // Ephemeral public IP
     }
   }
-}
+}*/
